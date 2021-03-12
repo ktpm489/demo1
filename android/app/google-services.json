@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630644421992",
+    "project_id": "makeupar-39fdf",
+    "storage_bucket": "makeupar-39fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630644421992:android:3aca29d474c5f4f7f1d2dd",
+        "android_client_info": {
+          "package_name": "com.demoskinai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630644421992-bhijd35abslualu4v3qpp0vdob9381hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demoskinai",
+            "certificate_hash": "b2bd37d458afecbf586751a8957b2befabd56f0a"
+          }
+        },
+        {
+          "client_id": "630644421992-u7i9s4l5b6ol6ah151elq207u3i8jn0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demoskinai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "630644421992-puh1sgbm0lsiu20aatbpdtip5cas3h87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DgNBfyO_XBnJXPKR-xTZybheebFFJb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630644421992-puh1sgbm0lsiu20aatbpdtip5cas3h87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

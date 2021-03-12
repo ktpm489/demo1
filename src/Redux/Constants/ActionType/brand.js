@@ -1,0 +1,7 @@
+export const GET_BRAND = 'GET_BRAND'
+export const GET_ALL_BRAND = 'GET_ALL_BRAND'
+export const GET_SKU = 'GET_SKU'
+export const CLEAR_SKU = 'CLEAR_SKU'
+export const SET_BRAND = 'SET_BRAND'
+export const REQUEST = 'REQUEST'
+export const ERROR = 'ERROR'
